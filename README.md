@@ -1,24 +1,13 @@
-# README
+# Finally I found a rails 5 tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Now I'm following this tutorial doing some exercises.
 
-Things you may want to cover:
+"Hello world!"
 
-* Ruby version
+Btw: I noticed an interesting git command:
 
-* System dependencies
+```
+git help everyday
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Give it a shot!
